@@ -1,0 +1,3 @@
+com\ccgui\wordcount\WordcountDriver.class
+com\ccgui\wordcount\WordcountMapper.class
+com\ccgui\wordcount\WordcountReducer.class
